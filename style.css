@@ -101,7 +101,7 @@ h2{
     line-height: 50px;
 }
 
-a.tbl-hijau{
+a.tbl-biru{
     background: rgb(84, 126, 65);
     border-radius: 20px;
     margin-top: 20px;
@@ -111,12 +111,12 @@ a.tbl-hijau{
     font-weight: bold;
 }
 
-a.tbl-hijau:hover{
+a.tbl-biru:hover{
     background: darksalmon;
     text-decoration: none;
 }
 
-a.tbl-nude{
+a.tbl-pink{
     background: darksalmon;
     border-radius: 20px;
     margin-top: 20px;
@@ -126,7 +126,7 @@ a.tbl-nude{
     font-weight: bold;
 }
 
-a.tbl-nude:hover{
+a.tbl-pink:hover{
     background: rgb(84, 126, 65);
     text-decoration: none;
 }
